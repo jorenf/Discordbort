@@ -9,7 +9,7 @@
   "author": "jorny",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.2.0",
+    "discord.js": "^13.14.0",
     "save": "^2.4.0"
   }
 }
